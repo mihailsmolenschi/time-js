@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    background-color: #f8efd4;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 900;
+    letter-spacing: 2px;
+    color: #821752;
+}
+#clock {
+    display: block;
+    width: 400px;
+    margin: 10% auto;
+    padding-top: 25px;
+    padding-bottom: 40px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px #888888;
+    text-align: center;
+    text-shadow: 2px 2px 5px #888888;
+    background-color: #edc988;
+    word-wrap: break-word;
+}
+
+#clock-time {
+    margin-top: 2px;
+    font-size: 4rem;
+}
